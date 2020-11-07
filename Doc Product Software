@@ -1,0 +1,129 @@
+ 
+
+
+
+
+
+
+
+
+
+
+Documentação de um
+Produto de Software
+
+
+E-sports4all
+
+
+
+
+
+Nome dos Alunos:
+		     Fellipe Russo de Toledo - RA: 82013336
+	  	     Hugo Silva  Sales - RA: 820139319
+
+
+
+              	
+
+
+
+
+
+
+
+
+
+
+2020
+ÍNDICE DETALHADO
+1.	Introdução	3
+1.1.	Tema	3
+1.2.	Objetivos a serem alcançados	3
+1.3.	Escopo principal	3
+2.	Definição do Modelo de Processo	4
+3.	Requisitos do Sistema de Software	4
+3.1.	Requisitos Funcionais	4
+3.2.	Requisitos Não-Funcionais	4
+4.	Projeto	5
+4.1.	Arquitetura Lógica	5
+4.2.	Arquitetura Física	5
+5.	Protótipo de Interface	6
+6.	Critérios de Qualidade de Software	7
+7. Testes	8
+7.1. Plano de Testes	8
+7.2. Roteiro de Testes	8
+Anexo I	9
+
+
+
+Introdução
+Tema
+Aplicativo multi-plataforma com informações sobre os principais jogos eletrônicos e seus torneios 
+Objetivos a serem alcançados
+Público alvo: Amantes de e-sports que querem ter mais informações.
+Plataforma de desenvolvimento: IOS / Android / Windows /MacOS
+Melhorias do processo atual: Atualmente se deve utilizar sites ou aplicativos específicos de cada jogo, com o aplicativo você terá todas as informações em um só lugar
+Automatização: Captura automática das informações de torneios obtidos nos sites 
+Inovação: Permitir que possa ser realizado download do aplicativo também para computadores.
+
+Escopo principal
+Proposta principal: A Proposta do E-sports4all projetar um aplicativo para facilitar a vida dos fãs de esports com notícias, resultados sobre os principais campeonatos.
+Ações: As principais ações do aplicativo é trazer uma junção de notícias, resultados de partidas e de campeonatos de jogos diferentes de diversos sites em um só aplicativo para uma busca mais rápida e fácil das partidas e resultados dos jogos de interesse.
+Implementações: Adicionar uma variedade maior de jogos, a disponibilidade do download do aplicativo para computadores.
+
+
+
+
+Definição do Modelo de Processo 
+Neste item deve-se descrever o modelo de processo a ser utilizado para realização do projeto, como por exemplo: cascata, incremental, SCRUM, entre outros.
+Referência: UC Modelos, métodos e técnicas da engenharia de software
+
+
+Requisitos do Sistema de Software
+Requisitos Funcionais 
+Neste item devem ser descritos os requisitos a serem atendidos funcionalmente pelo sistema de uma forma simples, possibilitando a compreensão do comportamento do sistema pela perspectiva do usuário. Os requisitos funcionais podem ser representados por meio de modelo de caso de uso ou user stories (cartão de histórias).
+Referência: UC Modelos, métodos e técnicas da engenharia de software
+Requisitos Não-Funcionais
+Neste item devem ser apresentados os requisitos não funcionais, que especificam restrições sobre os serviços ou funções providas pelo sistema. 
+Referência: UC Modelos, métodos e técnicas da engenharia de software
+
+
+
+
+Projeto
+Arquitetura Lógica
+Neste item deve ser apresentada a arquitetura lógica de implementação, descrever arquitetura em camadas, padrão de projeto, linguagem de programação, banco de dados, componentes externos, ....
+Referência: UC Modelos, métodos e técnicas da engenharia de software
+Arquitetura Física
+Neste item deve ser apresentada a arquitetura de infraestrutura do sistema, demonstrando o tipo de arquitetura física, a configuração de hardware, de rede... Para a representação da arquitetura de infraestrutura pode-se utilizar o diagrama de implantação. 
+Referência: UC Modelos, métodos e técnicas da engenharia de software
+
+
+Protótipo de Interface 
+Neste item deve ser apresentado o protótipo do projeto. O protótipo é um recurso que deve ser adotado como estratégia para levantamento, detalhamento, validação de requisitos e modelagem de interface com o usuário (usabilidade).
+Referência: UC Modelos, métodos e técnicas da engenharia de software
+
+
+Critérios de Qualidade de Software
+Neste item devem ser listados e descritos os critérios de garantia da qualidade do processo que serão considerados no Projeto.
+Referência: UC Gestão e Qualidade de software
+
+
+
+7. Testes
+7.1. Plano de Testes
+Neste item deve ser criado o plano de testes do sistema, permitindo a validação do sistema por parte do desenvolvedor, através da verificação dos requisitos do sistema desenvolvido. 
+Referência: UC Gestão e Qualidade de software
+
+7.2. Roteiro de Testes
+Neste item devem ser registrados os testes realizados no sistema tendo como base o Plano de Testes do Sistema. O roteiro de testes deve ser elaborado com base nos casos de uso ou user stories (cartão de histórias) de forma manual ou automatizada. 
+Referência: UC Gestão e Qualidade de software
+
+Anexo I
+Neste item deve ser anexado o roteiro de entrevista ou questionário respondido, caso tenha sido aplicado.
+Referência: UC Modelos, métodos e técnicas da engenharia de software
+
+
+
